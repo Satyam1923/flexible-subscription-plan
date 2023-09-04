@@ -158,7 +158,7 @@ img{
 }
 /*for mobile devices*/
 
-@media(max-width:920px ){
+@media(max-width:1080px ){
     .flex{
         flex-direction: column;
         flex: 1,1,0;
